@@ -9,4 +9,5 @@
 
 .rotation {
   animation: rotation linear infinite 20s;
+  transform-origin: 50% 50% 0;
 }
