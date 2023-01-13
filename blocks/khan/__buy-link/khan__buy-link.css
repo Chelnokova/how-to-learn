@@ -3,4 +3,6 @@
   font-size: 30px;
   font-weight: 400;
   color: #2f80ed;
+  text-decoration: none;
+  align-self: flex-start;
 }
