@@ -6,3 +6,8 @@
   text-decoration: none;
   align-self: flex-start;
 }
+
+.khan__buy-link:hover {
+  opacity: 0.5;
+  transition-duration: 0.5s;
+}
